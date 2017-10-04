@@ -1,6 +1,6 @@
 ## Simple SMS Inject (Laravel)
 
-This is a simple Inject Object SMS In Laravel, I am use [Gammu](https://wammu.eu/gammu/) as sms daemon, You can type this script to send sms,
+This is a simple SMS Inject Object In Laravel, I am use [Gammu](https://wammu.eu/gammu/) as sms daemon, You can type this script to send sms,
 
 Initialize Object Class
 
